@@ -1,0 +1,1 @@
+export { default as ReactSvg } from "./react.svg?react";
